@@ -191,3 +191,13 @@ h2.section-title,
   text-shadow: 0 0 8px #ff3b3b;
   margin-bottom: 20px;
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
